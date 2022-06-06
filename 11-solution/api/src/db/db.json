@@ -1,0 +1,22 @@
+{
+  "user": {
+    "id": "jBWMVGjm50l6LGwepDoty",
+    "username": "frontendmaster"
+  },
+  "pet": [
+    {
+      "id": "R8obO7Q_kJMQ_QC3eGtkQ",
+      "createdAt": 1654454658301,
+      "name": "Tommy",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "OpPdxDzC-6gSpZ0Aq1Yle",
+      "createdAt": 1654454676433,
+      "name": "Billy",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    }
+  ]
+}
